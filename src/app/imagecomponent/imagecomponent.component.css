@@ -1,0 +1,12 @@
+.image {
+    background-image: url("/assets/Redpexels-photo-1528977.jpeg");
+    background-color: #cccccc;
+    width:100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;                                           
+    background-size: cover;
+    position: relative;
+  }                                           
+                  
+  
